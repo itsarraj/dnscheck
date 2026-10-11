@@ -5,6 +5,12 @@ their answers — the CLI version of pasting a domain into
 whatsmydns.net, for checking DNS propagation after a change without
 leaving the terminal.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
